@@ -11,4 +11,9 @@
   grid-template-areas: 
   "Nav Reviews AvgRtg SentAnalysis"
   "Nav Visitors Visitors Visitors";
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2, h4, p {
+  background-color: lightgrey;
 }

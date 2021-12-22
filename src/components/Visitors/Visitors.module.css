@@ -1,0 +1,10 @@
+.Visitors {
+    grid-area: Visitors;
+    background-color: lightgrey;
+}
+
+.VisitorsBox {
+    background-color: darkgray;
+    height: 20rem;
+    width: 3fr;
+}

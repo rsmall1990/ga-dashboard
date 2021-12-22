@@ -1,4 +1,7 @@
 .SentAnalysis {
     grid-area: SentAnalysis;
     background-color: lightgrey;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
